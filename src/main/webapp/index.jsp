@@ -10,7 +10,7 @@
 </head>
 <body>
     <h1>Batch: Jan-2025 Batch</h1> 
-    <h2>This is Naveen AJ</h2>
+    <h2>This is SANGAMESH</h2>
     <h3>Successfully running the web application</h3>
 </body>
 </html>
